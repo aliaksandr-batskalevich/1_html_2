@@ -1,0 +1,93 @@
+header, main {
+    margin: 0;
+}
+
+header, footer {
+    background-color: seagreen;
+    text-align: center;
+}
+
+main {
+    background-color: darkgoldenrod;
+}
+
+.logo {
+    width: 100px;
+}
+
+.cap {
+    width: 30%;
+    height: max-content;
+    display: inline-block;
+    /* border-left: red 3px solid; */
+    margin-left: 5px;
+    padding-left: 5px;
+    vertical-align: text-top;
+}
+
+article {
+    margin: 0;
+    padding: 5px;
+}
+
+.news {
+    border: black 1px solid;
+    line-height: 10px;
+    margin: 1px;
+    padding: 5px;
+}
+
+.news h4 {
+    text-decoration: underline;
+}
+
+.news p {
+    font-size: 12px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer img {
+    height: 50px;
+}
+
+footer a p, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.foot {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+}
+
+.images img {
+    width: 100%;
+}
+
+.images {
+    width: 32%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about {
+    margin: 0;
+}
+
+.catalog {
+    text-align: center;
+}
+
+a {
+    color: rgb(46, 22, 17);
+    text-decoration: none;
+}
